@@ -3,7 +3,11 @@ public class main {
         /*Employee employee = new Employee("Mustafa Murat","Bilişim",3000);
         employee.showInfos();*/
         Manager manager = new Manager("Mustafa murat coşkun","bilişim",4000,10);
-        manager.showInfos();
-        manager.raiseSalary(100);
+        /*manager.showInfos();
+        manager.raiseSalary(100);*/
+        Employee employee= new Manager("Mustafa murat coşkun","bilişim",4000,10);
+        employee.showInfos();
+
+        System.out.println(manager);
     }
 }

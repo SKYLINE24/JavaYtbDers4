@@ -9,6 +9,12 @@ public class Manager extends Employee {
     public void raiseSalary(int amount){
         System.out.println("Çalışanlara " + amount + "Tl zam yapıldı...");
     }
+
+    @Override
+    public String toString() {
+        return  "Manager Objesi";
+    }
+
     @Override
     public void showInfos(){
         //bunu yazmak yerine yani kopyala yapıştır yerine super yazıyoruz
