@@ -4,23 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="33f5ed83-3be7-4219-9fc6-8a91cbd29099" name="Changes" comment="polymorphism eklemesi yaptık">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Abstcract/Abstcract.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Abstcract/src/AbstractDataBase.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Abstcract/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Abstcract/src/MongoDataBase.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Abstcract/src/MySqlDataBase.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Interfaces/Interfaces.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Interfaces/src/Customer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Interfaces/src/IDatabase.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Interfaces/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Interfaces/src/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Packages/Packages.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Packages/src/Paket2/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Packages/src/paket1/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/polymorphism/polymorphism.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/polymorphism/src/Main.java" afterDir="false" />
+    <list default="true" id="33f5ed83-3be7-4219-9fc6-8a91cbd29099" name="Changes" comment="Bir çok ekleme Yapktık son eklememiz package lar oldu :( daha önce commitlemeliydim">
+      <change afterPath="$PROJECT_DIR$/Final/Final.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Final/src/FinalOlusuturdum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Final/src/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
@@ -135,7 +122,14 @@
       <option name="project" value="LOCAL" />
       <updated>1661248253524</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Bir çok ekleme Yapktık son eklememiz package lar oldu :( daha önce commitlemeliydim">
+      <created>1661256832185</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1661256832185</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -152,6 +146,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Kalıtım" />
     <MESSAGE value="polymorphism eklemesi yaptık" />
-    <option name="LAST_COMMIT_MESSAGE" value="polymorphism eklemesi yaptık" />
+    <MESSAGE value="Bir çok ekleme Yapktık son eklememiz package lar oldu :( daha önce commitlemeliydim" />
+    <option name="LAST_COMMIT_MESSAGE" value="Bir çok ekleme Yapktık son eklememiz package lar oldu :( daha önce commitlemeliydim" />
   </component>
 </project>
