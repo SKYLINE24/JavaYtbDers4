@@ -4,13 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="33f5ed83-3be7-4219-9fc6-8a91cbd29099" name="Changes" comment="Bir çok ekleme Yapktık son eklememiz package lar oldu :( daha önce commitlemeliydim">
-      <change afterPath="$PROJECT_DIR$/Final/Final.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Final/src/FinalOlusuturdum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Final/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="33f5ed83-3be7-4219-9fc6-8a91cbd29099" name="Changes" comment="değişken değer atamaları yapıldı ama sadece Final değişkeni örneği yazıldı" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -63,7 +57,14 @@
       <recent name="C:\Users\can.keles\JavaDenemeler\JavaYtbDers4\src" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.paket1.Main">
+  <component name="RunManager" selected="Application.Main (1)">
+    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="Final" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
       <module name="Abstcract" />
@@ -93,6 +94,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main (1)" />
         <item itemvalue="Application.paket1.Main" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.main" />
@@ -129,7 +131,14 @@
       <option name="project" value="LOCAL" />
       <updated>1661256832185</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="değişken değer atamaları yapıldı ama sadece Final değişkeni örneği yazıldı">
+      <created>1661259290541</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1661259290541</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -147,6 +156,7 @@
     <MESSAGE value="Kalıtım" />
     <MESSAGE value="polymorphism eklemesi yaptık" />
     <MESSAGE value="Bir çok ekleme Yapktık son eklememiz package lar oldu :( daha önce commitlemeliydim" />
-    <option name="LAST_COMMIT_MESSAGE" value="Bir çok ekleme Yapktık son eklememiz package lar oldu :( daha önce commitlemeliydim" />
+    <MESSAGE value="değişken değer atamaları yapıldı ama sadece Final değişkeni örneği yazıldı" />
+    <option name="LAST_COMMIT_MESSAGE" value="değişken değer atamaları yapıldı ama sadece Final değişkeni örneği yazıldı" />
   </component>
 </project>
