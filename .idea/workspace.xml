@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="33f5ed83-3be7-4219-9fc6-8a91cbd29099" name="Changes" comment="değişken değer atamaları yapıldı ama sadece Final değişkeni örneği yazıldı">
+    <list default="true" id="33f5ed83-3be7-4219-9fc6-8a91cbd29099" name="Changes" comment="örnek olması için bir değişiklik yaptım projemde">
       <change afterPath="$PROJECT_DIR$/src/deneme.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Final/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Final/src/Main.java" afterDir="false" />
@@ -149,7 +149,14 @@
       <option name="project" value="LOCAL" />
       <updated>1661259394859</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="örnek olması için bir değişiklik yaptım projemde">
+      <created>1663406785830</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1663406785830</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -168,6 +175,7 @@
     <MESSAGE value="polymorphism eklemesi yaptık" />
     <MESSAGE value="Bir çok ekleme Yapktık son eklememiz package lar oldu :( daha önce commitlemeliydim" />
     <MESSAGE value="değişken değer atamaları yapıldı ama sadece Final değişkeni örneği yazıldı" />
-    <option name="LAST_COMMIT_MESSAGE" value="değişken değer atamaları yapıldı ama sadece Final değişkeni örneği yazıldı" />
+    <MESSAGE value="örnek olması için bir değişiklik yaptım projemde" />
+    <option name="LAST_COMMIT_MESSAGE" value="örnek olması için bir değişiklik yaptım projemde" />
   </component>
 </project>
