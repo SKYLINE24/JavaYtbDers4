@@ -4,7 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="33f5ed83-3be7-4219-9fc6-8a91cbd29099" name="Changes" comment="değişken değer atamaları yapıldı ama sadece Final değişkeni örneği yazıldı" />
+    <list default="true" id="33f5ed83-3be7-4219-9fc6-8a91cbd29099" name="Changes" comment="değişken değer atamaları yapıldı ama sadece Final değişkeni örneği yazıldı">
+      <change afterPath="$PROJECT_DIR$/src/deneme.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Final/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Final/src/Main.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -138,7 +142,14 @@
       <option name="project" value="LOCAL" />
       <updated>1661259290541</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="değişken değer atamaları yapıldı ama sadece Final değişkeni örneği yazıldı">
+      <created>1661259394859</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1661259394859</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
